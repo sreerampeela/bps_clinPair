@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+Ex7035_shovill_contigs.fasta	contig00024	21390	22199	+	blaOXA-57	1-810/810	===============	0/0	100.00	99.88	ncbi	NG_049797.1	oxacillin-hydrolyzing class D beta-lactamase OXA-57	BETA-LACTAM
+Ex7035_shovill_contigs.fasta	contig01054	63	950	-	penI_Bp	1-888/888	===============	0/0	100.00	99.78	ncbi	NG_048031.1	PenI family class A extended-spectrum beta-lactamase	BETA-LACTAM
